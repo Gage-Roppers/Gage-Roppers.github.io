@@ -1,0 +1,15 @@
+body {
+  background-color: #f4f4f4;
+  font-family: Helvetica, sans-serif;
+}
+
+h1 {
+  color: #333;
+}
+
+#usCyberGamesImage {
+  max-width: 100%;
+  height: auto;
+  margin-top: 20px;
+  cursor: pointer;
+}
